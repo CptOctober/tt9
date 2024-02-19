@@ -4,11 +4,11 @@ dictionaryFile: lithuanian-words-list.txt
 layout:
   - [SPECIAL] # 0
   - [PUNCTUATION] # 1
-  - [a, b, c, č, ą] # 2
-  - [d, e, f, ę, ė] # 3
+  - [a, ą, b, c, č] # 2
+  - [d, e, ę, ė, f] # 3
   - [g, h, i, į] # 4
   - [j, k, l] # 5
   - [m, n, o] # 6
   - [p, q, r, s, š] # 7
-  - [t, u, v, ų, ū] # 8
+  - [t, u, ų, ū, v] # 8
   - [w, x, y, z, ž] # 9
